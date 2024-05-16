@@ -18,7 +18,7 @@
 <body>
     <form id="form1" runat="server">
         <div style="text-align: left; font-weight: 700">
-            <h1 style="text-align: center">Tabel Persegi</h1>
+            <h1 style="text-align: center">Tabel Segitiga</h1>
         </div>
         <p style="text-align: center">
             <table class="center">
@@ -30,6 +30,7 @@
         </p>
         <div class="auto-style1">
             <asp:Button ID="SubmitButton" runat="server" OnClick="SubmitButton_Click" Text="Submit" />
+            <asp:Button ID="BackButton" runat="server" OnClick="BackButton_Click" Text="Back" />
         </div>
         <p style="text-align: center">
             <asp:Label ID="HasilLabel" runat="server">

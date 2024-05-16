@@ -38,5 +38,12 @@ namespace WebApplication1
                 HasilLabel.Text = "Gaji " + Nama.Text.ToString() + " Jabatan " + Jabatan.Text.ToString() + " Bulan Ini : Rp " + Gaji.ToString("n");
             }
         }
+        protected void BackButton_Click(object sender, EventArgs e) // Add button on web page
+        {
+            // Checks to see if there are numerals in the boxes.
+            Response.Redirect("Home.aspx");
+            //or
+            Server.Transfer("Home.aspx");
+        }
     }
 }

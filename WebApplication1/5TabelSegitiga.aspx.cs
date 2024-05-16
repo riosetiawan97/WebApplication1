@@ -32,5 +32,12 @@ namespace WebApplication1
                 }
             }
         }
+        protected void BackButton_Click(object sender, EventArgs e) // Add button on web page
+        {
+            // Checks to see if there are numerals in the boxes.
+            Response.Redirect("Home.aspx");
+            //or
+            Server.Transfer("Home.aspx");
+        }
     }
 }

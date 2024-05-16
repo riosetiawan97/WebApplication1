@@ -42,6 +42,7 @@
         </p>
         <div class="auto-style1">
             <asp:Button ID="Button1" runat="server" OnClick="SubmitButton_Click" Text="Submit" />
+            <asp:Button ID="BackButton" runat="server" OnClick="BackButton_Click" Text="Back" />
         </div>
         <p style="text-align: center">
             <asp:Label ID="HasilLabel" runat="server">

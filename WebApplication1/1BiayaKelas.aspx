@@ -21,6 +21,7 @@
             <asp:TextBox ID="NilaiTest" runat="server"></asp:TextBox>
             &nbsp;
             <asp:Button ID="Button1" runat="server" OnClick="SubmitButton_Click" Text="Submit" />
+            <asp:Button ID="BackButton" runat="server" OnClick="BackButton_Click" Text="Back" />
         </p>
         <p style="text-align: center">
             <asp:Label ID="HasilLabel" runat="server">
