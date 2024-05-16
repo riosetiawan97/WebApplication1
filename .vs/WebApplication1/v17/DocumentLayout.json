@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Belajar\\.Net\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD643E4-FC4A-4FBD-9207-478D260FF19E}|WebApplication1\\WebApplication1.csproj|d:\\belajar\\.net\\webapplication1\\webapplication1\\5tabelsegitiga.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD643E4-FC4A-4FBD-9207-478D260FF19E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\5tabelsegitiga.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD643E4-FC4A-4FBD-9207-478D260FF19E}|WebApplication1\\WebApplication1.csproj|d:\\belajar\\.net\\webapplication1\\webapplication1\\5tabelsegitiga.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ABD643E4-FC4A-4FBD-9207-478D260FF19E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\5tabelsegitiga.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD643E4-FC4A-4FBD-9207-478D260FF19E}|WebApplication1\\WebApplication1.csproj|d:\\belajar\\.net\\webapplication1\\webapplication1\\4tabelpersegi.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD643E4-FC4A-4FBD-9207-478D260FF19E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\4tabelpersegi.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD643E4-FC4A-4FBD-9207-478D260FF19E}|WebApplication1\\WebApplication1.csproj|d:\\belajar\\.net\\webapplication1\\webapplication1\\4tabelpersegi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ABD643E4-FC4A-4FBD-9207-478D260FF19E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\4tabelpersegi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD643E4-FC4A-4FBD-9207-478D260FF19E}|WebApplication1\\WebApplication1.csproj|d:\\belajar\\.net\\webapplication1\\webapplication1\\3perhitunganluas.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD643E4-FC4A-4FBD-9207-478D260FF19E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\3perhitunganluas.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD643E4-FC4A-4FBD-9207-478D260FF19E}|WebApplication1\\WebApplication1.csproj|d:\\belajar\\.net\\webapplication1\\webapplication1\\3perhitunganluas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ABD643E4-FC4A-4FBD-9207-478D260FF19E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\3perhitunganluas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD643E4-FC4A-4FBD-9207-478D260FF19E}|WebApplication1\\WebApplication1.csproj|D:\\Belajar\\.Net\\WebApplication1\\webapplication1\\1biayakelas.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD643E4-FC4A-4FBD-9207-478D260FF19E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\1biayakelas.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD643E4-FC4A-4FBD-9207-478D260FF19E}|WebApplication1\\WebApplication1.csproj|D:\\Belajar\\.Net\\WebApplication1\\webapplication1\\1biayakelas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ABD643E4-FC4A-4FBD-9207-478D260FF19E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\1biayakelas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD643E4-FC4A-4FBD-9207-478D260FF19E}|WebApplication1\\WebApplication1.csproj|D:\\Belajar\\.Net\\WebApplication1\\webapplication1\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ABD643E4-FC4A-4FBD-9207-478D260FF19E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "1BiayaKelas.aspx",
+              "DocumentMoniker": "D:\\Belajar\\.Net\\WebApplication1\\WebApplication1\\1BiayaKelas.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\1BiayaKelas.aspx",
+              "ToolTip": "D:\\Belajar\\.Net\\WebApplication1\\WebApplication1\\1BiayaKelas.aspx",
+              "RelativeToolTip": "WebApplication1\\1BiayaKelas.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-15T15:29:09.519Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "1BiayaKelas.aspx.cs",
+              "DocumentMoniker": "D:\\Belajar\\.Net\\WebApplication1\\WebApplication1\\1BiayaKelas.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\1BiayaKelas.aspx.cs",
+              "ToolTip": "D:\\Belajar\\.Net\\WebApplication1\\WebApplication1\\1BiayaKelas.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\1BiayaKelas.aspx.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T15:33:31.445Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "5TabelSegitiga.aspx.cs",
+              "DocumentMoniker": "D:\\Belajar\\.Net\\WebApplication1\\WebApplication1\\5TabelSegitiga.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\5TabelSegitiga.aspx.cs",
+              "ToolTip": "D:\\Belajar\\.Net\\WebApplication1\\WebApplication1\\5TabelSegitiga.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\5TabelSegitiga.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:55:16.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "5TabelSegitiga.aspx",
+              "DocumentMoniker": "D:\\Belajar\\.Net\\WebApplication1\\WebApplication1\\5TabelSegitiga.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\5TabelSegitiga.aspx",
+              "ToolTip": "D:\\Belajar\\.Net\\WebApplication1\\WebApplication1\\5TabelSegitiga.aspx",
+              "RelativeToolTip": "WebApplication1\\5TabelSegitiga.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-16T15:54:29.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "4TabelPersegi.aspx.cs",
+              "DocumentMoniker": "D:\\Belajar\\.Net\\WebApplication1\\WebApplication1\\4TabelPersegi.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\4TabelPersegi.aspx.cs",
+              "ToolTip": "D:\\Belajar\\.Net\\WebApplication1\\WebApplication1\\4TabelPersegi.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\4TabelPersegi.aspx.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:23:15.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "4TabelPersegi.aspx",
+              "DocumentMoniker": "D:\\Belajar\\.Net\\WebApplication1\\WebApplication1\\4TabelPersegi.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\4TabelPersegi.aspx",
+              "ToolTip": "D:\\Belajar\\.Net\\WebApplication1\\WebApplication1\\4TabelPersegi.aspx",
+              "RelativeToolTip": "WebApplication1\\4TabelPersegi.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-16T15:19:54.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "3PerhitunganLuas.aspx.cs",
+              "DocumentMoniker": "D:\\Belajar\\.Net\\WebApplication1\\WebApplication1\\3PerhitunganLuas.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\3PerhitunganLuas.aspx.cs",
+              "ToolTip": "D:\\Belajar\\.Net\\WebApplication1\\WebApplication1\\3PerhitunganLuas.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\3PerhitunganLuas.aspx.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAUwCAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:48:56.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "3PerhitunganLuas.aspx",
+              "DocumentMoniker": "D:\\Belajar\\.Net\\WebApplication1\\WebApplication1\\3PerhitunganLuas.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\3PerhitunganLuas.aspx",
+              "ToolTip": "D:\\Belajar\\.Net\\WebApplication1\\WebApplication1\\3PerhitunganLuas.aspx",
+              "RelativeToolTip": "WebApplication1\\3PerhitunganLuas.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-16T14:47:01.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "D:\\Belajar\\.Net\\WebApplication1\\WebApplication1\\Home.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Home.aspx",
+              "ToolTip": "D:\\Belajar\\.Net\\WebApplication1\\WebApplication1\\Home.aspx",
+              "RelativeToolTip": "WebApplication1\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-15T15:24:43.851Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
